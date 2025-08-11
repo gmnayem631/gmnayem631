@@ -8,32 +8,20 @@
 
 ## 🌟 About Me  
 I’m a **Frontend Developer** with a keen interest in creating responsive and dynamic websites that deliver great user experiences.  
-I love turning ideas into fully functional, visually appealing web interfaces.
+I adore the fact that how a few lines of code can make stunning and interactive web interfaces.
 
 ---
 
-## 📬 Connect with Me  
-<p align="left">
-  <a href="https://github.com/gmnayem631">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/gulam-mustafa-nayem">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-📞 **Phone:** +8801521759634  
-
----
 
 ## 🔭 Current Activities  
 - 🌱 Polishing my backend knowledge of **Express JS & MongoDB** a bit more
 - 🎯 Preparing for **Frontend Developer** job opportunities  
-- 🎨 Exploring different **Tailwind CSS** libraries  
+- 🎨 Exploring different **Tailwind CSS** libraries
+- 🧠 Enjoying learning and playing chess
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,8 +35,44 @@ I love turning ideas into fully functional, visually appealing web interfaces.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-FF1F70?style=for-the-badge&logo=elementor&logoColor=white" />
+
 </p>
 
 ---
 
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/gulam-mustafa-nayem/">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/gmnayem631">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/8801521759634" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" />
+</a>
+
+<br/>
+
+📞 **Phone:** +8801521759634  
+
+---
+
+### Stats:
+
+<!-- GitHub Contribution Graph -->
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gmnayem631&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gmnayem631&theme=radical)](https://git.io/streak-stats)
+
+<!-- GitHub Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmnayem631&layout=compact&theme=dark)](https://github.com/gmnayem631/github-readme-stats)
+
+
 <p align="center">✨ Thanks for visiting my profile! 🚀</p>
+
