@@ -68,7 +68,7 @@ I adore the fact that how a few lines of code can make stunning and interactive 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmnayem631&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gmnayem631&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmnayem631&layout=compact&theme=dark)](https://github.com/gmnayem631/github-readme-stats)
