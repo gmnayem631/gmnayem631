@@ -27,7 +27,7 @@ I love turning ideas into fully functional, visually appealing web interfaces.
 ---
 
 ## 🔭 Current Activities  
-- 🌱 Exploring **Next.js** to build scalable React applications  
+- 🌱 Polishing my backend knowledge of **Express JS & MongoDB** a bit more
 - 🎯 Preparing for **Frontend Developer** job opportunities  
 - 🎨 Exploring different **Tailwind CSS** libraries  
 
