@@ -64,14 +64,15 @@ I adore the fact that how a few lines of code can make stunning and interactive 
 
 ### Stats:
 
-<!-- GitHub Contribution Graph -->
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gmnayem631&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+<!-- Contribution Stats with Graph -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gmnayem631&theme=radical)](https://git.io/streak-stats)
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
 
-<!-- GitHub Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmnayem631&layout=compact&theme=dark)](https://github.com/gmnayem631/github-readme-stats)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_GITHUB_USERNAME/github-readme-stats)
+
 
 
 <p align="center">✨ Thanks for visiting my profile! 🚀</p>
