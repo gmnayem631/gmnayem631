@@ -1,22 +1,19 @@
-<!-- Banner Image -->
-![Banner](https://i.ibb.co/TxRKCpJq/Linked-In-Banner.png)
-
-<h1 align="center">Hi, I'm Gulam Mustafa Nayem 👋</h1>
-<h3 align="center">🚀 Frontend Developer | Passionate about building clean & user-friendly web apps</h3>
+<h1 align="center">Hi, I'm Gulam Mustafa Nayem.</h1>
+<h3 align="center">Frontend Developer | I enjoy building clean & user-friendly web apps</h3>
 
 ---
 
 ## 🌟 About Me  
 I’m a **Frontend Developer** with a keen interest in creating responsive and dynamic websites that deliver great user experiences.  
-I adore the fact that how a few lines of code can make stunning and interactive web interfaces.
+I find it fascinating how a few lines of code can create stunning and interactive web interfaces
 
 ---
 
 
 ## 🔭 Current Activities  
 - 🌱 Polishing my backend knowledge of **Express JS & MongoDB** a bit more
-- 🎯 Preparing for **Frontend Developer** job opportunities  
-- 🎨 Exploring different **Tailwind CSS** libraries
+- 🎯 Exploring **Next.js**
+- 🎨 Exploring different **UI** libraries
 - 🧠 Enjoying learning and playing chess
 
 ---
