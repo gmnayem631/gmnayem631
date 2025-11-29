@@ -72,5 +72,5 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 
 
 
-<p align="center">✨ Thanks for visiting my profile! 🚀</p>
+<p align="center">✨ Thanks for dropping by! 🚀</p>
 
