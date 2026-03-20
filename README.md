@@ -57,8 +57,6 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 
 ### Stats:
 
-<!-- Contribution Stats with Graph -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmnayem631&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gmnayem631)](https://git.io/streak-stats)
