@@ -14,7 +14,6 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 - 🌱 Polishing my backend knowledge of **Express JS & MongoDB** a bit more
 - 🎯 Exploring **Next.js**
 - 🎨 Exploring different **UI** libraries
-- 🧠 Enjoying learning and playing chess
 
 ---
 
