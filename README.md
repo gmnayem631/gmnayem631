@@ -1,35 +1,30 @@
-<h1 align="center">Hi, I'm Gulam Mustafa Nayem.</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm-nl-Gulam%20Mustafa%20Nayem&section=footer&descAlign=60&fontAlign=50&textBg=false&animation=fadeIn&fontAlignY=50)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gmnayem631&label=&color=grey&style=flat-square" />
+</p>
 <h3 align="center">Frontend Developer | I enjoy building clean & user-friendly web apps</h3>
 
 ---
 
-## 🌟 About Me  
+## About Me  
 I’m a **Frontend Developer** with a keen interest in creating responsive and dynamic websites that deliver great user experiences.  
 I find it fascinating how a few lines of code can create stunning and interactive web interfaces
 
 ---
 
 
-## 🔭 Current Activities  
-- 🌱 Polishing my backend knowledge of **Express JS & MongoDB** a bit more
-- 🎯 Exploring **Next.js**
-- 🎨 Exploring different **UI** libraries
+## Current Activities  
+- Exploring **Next.js**
+- Working on [CheckShelf](https://github.com/gmnayem631/checkshelf-client) - a full-stack platform for finding chess study resources tailored to players of different strengths
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,firebase,express,mongodb,github" />
+  </a>
 </p>
 
 ---
@@ -49,8 +44,6 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 </a>
 
 <br/>
-
-📞 **Phone:** +8801521759634  
 
 ---
 
