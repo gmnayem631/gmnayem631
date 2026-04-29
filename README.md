@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gmnayem631&label=&color=grey&style=flat-square" />
 </p>
-<h3 align="center">Frontend Developer | I enjoy building clean & user-friendly web apps</h3>
+<h3 align="center">Frontend Developer | I love building clean & user-friendly web apps</h3>
 
 ---
 
@@ -21,11 +21,9 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 
 ## Skills & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,firebase,express,mongodb,github" />
-  </a>
-</p>
+
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,firebase,express,mongodb,github" />
+ 
 
 ---
 
