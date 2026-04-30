@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm-nl-Gulam%20Mustafa%20Nayem&section=footer&descAlign=60&fontAlign=50&textBg=false&animation=fadeIn&fontAlignY=50)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gmnayem631&label=&color=grey&style=flat-square" />
-</p>
 <h3 align="center">Frontend Developer | I love building clean & user-friendly web apps</h3>
 
 ---
