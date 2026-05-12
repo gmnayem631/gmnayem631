@@ -12,7 +12,6 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 
 ## Current Activities  
 - Exploring **Next.js**
-- Working on [CheckShelf](https://github.com/gmnayem631/checkshelf-client) - a full-stack platform for finding chess study resources tailored to players of different strengths
 
 ---
 
