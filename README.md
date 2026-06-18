@@ -11,7 +11,7 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 
 
 ## Current Activities  
-- Exploring **Next.js**
+- Exploring **TypeScript**
 
 ---
 
