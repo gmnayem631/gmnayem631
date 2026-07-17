@@ -18,7 +18,7 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 ## Skills & Tools
 
 
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,firebase,express,mongodb,github" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,firebase,express,mongodb,github" />
  
 
 ---
