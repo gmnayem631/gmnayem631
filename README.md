@@ -11,14 +11,14 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 
 
 ## Current Activities  
-- Exploring **Redux**
+- Exploring **Node.js**
 
 ---
 
 ## Skills & Tools
 
 
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,firebase,express,mongodb,github" />
+   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,next,firebase,express,mongodb,github" />
  
 
 ---
@@ -47,10 +47,7 @@ I find it fascinating how a few lines of code can create stunning and interactiv
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gmnayem631)](https://git.io/streak-stats)
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmnayem631&layout=compact&theme=dark)](https://github.com/gmnayem631/github-readme-stats)
 
 
-
-<p align="center">✨ Thanks for dropping by! 🚀</p>
+**<p align="center">Thanks for dropping by!</p>**
 
